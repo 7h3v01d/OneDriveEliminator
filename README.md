@@ -6,7 +6,7 @@ A professional, safety-first tool for permanently removing Microsoft OneDrive fr
 
 ---
 
-<img width="660" height="920" alt="screenshot-5" src="https://github.com/user-attachments/assets/b66eb890-c363-4590-9a5c-31c56423b716" />
+<img width="495" height="690" alt="screenshot-5" src="https://github.com/user-attachments/assets/b66eb890-c363-4590-9a5c-31c56423b716" />
 
 ---
 
