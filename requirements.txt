@@ -1,0 +1,4 @@
+# OneDrive Eliminator — Python dependencies
+# Install with: pip install -r requirements.txt
+
+PyQt6>=6.4.0
