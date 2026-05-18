@@ -6,6 +6,10 @@ A professional, safety-first tool for permanently removing Microsoft OneDrive fr
 
 ---
 
+<img width="660" height="920" alt="screenshot-5" src="https://github.com/user-attachments/assets/b66eb890-c363-4590-9a5c-31c56423b716" />
+
+---
+
 ## Features
 
 - **8-step removal pipeline** — process termination, account unlinking, app uninstall, Group Policy lock, Explorer namespace cleanup, scheduled task disabling, CLSID shell cleanup, and local file audit
